@@ -153,7 +153,8 @@ Implementing these recommendations is projected to deliver:
 ## Technical Details
 
 ### Files in Repository
-- `prompt_bgoswami2_11.ipynb` - Main analysis notebook with complete CRISP-DM workflow
+- `prompt_bgoswami2_11.ipynb` ([Link to Jupiter Notebook](https://github.com/bgoswami2/UCB_Assignment_11/blob/main/prompt_bgoswami2_11.ipynb)) - Main analysis notebook with complete CRISP-DM workflow
 - `data/vehicles.csv` - Used car listings dataset
 - `README.md` - This file
+
 
